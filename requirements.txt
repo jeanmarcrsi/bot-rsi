@@ -1,3 +1,0 @@
-requests
-ta-lib
-pandas
